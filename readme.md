@@ -56,6 +56,24 @@ gh copilot explain "sudo apt-get"
 gh copilot suggest "undo the last commit"
 ```
 
+### Copilot in GitHub Mobile
+
+In GitHub Mobile, you can use Copilot Chat to ask:
+
+- General software-related questions, without a particular context. For more information, see "Asking a general question about software development."
+- Questions asked in the context of your project. For more information, see "Asking questions about a specific repository."
+- Questions about a specific file or specified lines of code within a file. For more information, see "Asking questions about specific pieces of code."
+
+Some examples of general questions you could ask are:
+
+- What are the advantages of the Go programming language?
+- What is Agile software development?
+- What is the most popular JavaScript framework?
+- Give me some examples of regular expressions.
+- Write a bash script to output today's date.
+
+More information under this [link](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github-mobile).
+
 ### Code completions in the editor
 
 Copilot suggests code as you type. Copilot analyzes the context in the file you're editing and related files, and offers suggestions from within the editor. For example, begin typing the name of a method and Copilot suggests the implementation, following your coding style.
