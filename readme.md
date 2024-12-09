@@ -1,5 +1,7 @@
 # GitHub Copilot CheatSheet
 
+Version 2 is available here: [copilot-cheat-sheet-v2](copilot-cheat-sheet-v2.md)
+
 ![GitHub Copilot images](img/github-copilot.png)
 
 ## Supported languages and frameworks
