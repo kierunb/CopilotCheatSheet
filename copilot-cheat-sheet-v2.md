@@ -646,3 +646,20 @@ More infromation:
 - [Awesome GitHub Copilot](https://github.com/program247365/awesome-github-copilot)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [GitHub Copilot Chat extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+
+## Labs
+
+Copilot Hands-on labs:
+- [Introduction to GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/03-Introduction-to-GitHub-Copilot/README.md)
+- [Using GitHub Copilot with JavaScript](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/04-Using-GitHub-Copilot-with-JavaScript/README.MD)
+- [Using GitHub Copilot with Python](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/05-Using-GitHub-Copilot-with-Python/README.md)
+- [Using GitHub Copilot with C#](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/06-Using-GitHub-Copilot-with-CSharp/README.md)
+- [Creating a Mini Game with GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/07-Creating-Mini-Game-with-GitHub-Copilot/README.md)
+- [Using Advanced GitHub Copilot Features](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/blob/main/08-Using-Advanced-GitHub-Copilot-Features/README.md)
+- [Activate GitHub Copilot to become more efficient - .NET](https://moaw.dev/workshop/github-copilot/)
+- [Enhance Your Efficiency with GitHub Copilot: A Workshop - Java](https://moaw.dev/workshop/github-copilot-java/)
+- [Using GitHub Copilot to quickly build a Node.js application with Azure Cosmos DB and App Service](https://moaw.dev/workshop/gh:azure-samples/copilot-nodejs-todo/main/docs/)
+
+Sample .NET apps for Copilot experiments:
+- [TodoApp](https://github.com/davidfowl/TodoApp)
+- [TodoAppBlazorServer](https://github.com/claudiobernasconi/TodoAppBlazorServer)
